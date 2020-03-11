@@ -1,0 +1,20 @@
+#
+# IntelliJ
+#
+*.iml
+.idea/*
+!.idea/runConfigurations/
+
+#
+# Visual Studio Code
+#
+.settings/
+.classpath
+.project
+.vscode/
+
+.DS_Store
+
+node_modules
+package-lock.json
+dist
